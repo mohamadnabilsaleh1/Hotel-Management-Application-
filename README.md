@@ -1,6 +1,6 @@
 # 🏨 Hotel Management Application
 
-The **Hotel Management Application** (inspired by *The Wild Oasis* project from *The Ultimate React Course 2025*) is a full-featured **hotel management system** built with **React**.  
+The **Hotel Management Application**  is a full-featured **hotel management system** built with **React**.  
 
 This project demonstrates how to build a **real-world React application** with authentication, booking management, modern UI patterns, and professional development practices.
 
